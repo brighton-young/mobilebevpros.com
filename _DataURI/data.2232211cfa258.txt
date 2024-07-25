@@ -1,0 +1,1 @@
+chrome-extension://laankejkbhbdhmipfmgcngdelahlfoji/core/prompt-collector.js

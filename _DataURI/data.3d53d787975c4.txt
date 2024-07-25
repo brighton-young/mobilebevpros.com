@@ -1,0 +1,1 @@
+chrome-extension://ppbfhhgcdehhbjigifndnfmcihegokbb/dist/web-components/BubblesPinnedExtension.min.js

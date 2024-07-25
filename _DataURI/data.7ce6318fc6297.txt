@@ -1,0 +1,1 @@
+chrome-extension://hhfkcobomkalfdlmkongnhnhahkmnaad/lib/iSpeechRecognizer.min.js

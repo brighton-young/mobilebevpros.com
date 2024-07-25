@@ -1,0 +1,52 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * bebas-neue-by-fontfabric:
+ *   - http://typekit.com/eulas/00000000000000007735c070
+ * bebas-neue-pro:
+ *   - http://typekit.com/eulas/00000000000000007735c8b3
+ *   - http://typekit.com/eulas/00000000000000007735c8b6
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+
+/*{"last_published":"2022-03-02 22:43:01 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=krr7txh&ht=tk&f=37897.44426.44427&a=1194484&app=typekit&e=css");
+@font-face {
+    font-family: "bebas-neue-by-fontfabric";
+    src: url("https://use.typekit.net/af/c54646/00000000000000007735c070/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/c54646/00000000000000007735c070/30/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/c54646/00000000000000007735c070/30/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "bebas-neue-pro";
+    src: url("https://use.typekit.net/af/1c26fd/00000000000000007735c8b3/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"), url("https://use.typekit.net/af/1c26fd/00000000000000007735c8b3/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"), url("https://use.typekit.net/af/1c26fd/00000000000000007735c8b3/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+    font-display: auto;
+    font-style: italic;
+    font-weight: 400;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "bebas-neue-pro";
+    src: url("https://use.typekit.net/af/2ba20d/00000000000000007735c8b6/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/2ba20d/00000000000000007735c8b6/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/2ba20d/00000000000000007735c8b6/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: normal;
+}
+
+.tk-bebas-neue-by-fontfabric {
+    font-family: "bebas-neue-by-fontfabric", sans-serif;
+}
+
+.tk-bebas-neue-pro {
+    font-family: "bebas-neue-pro", sans-serif;
+}
