@@ -1,1 +1,0 @@
-No Content: webpack:///src/contentScripts/proxy.js
